@@ -1,3 +1,0 @@
-## Titre de test crée par KodjoAXI
-
-Je suis au jour 5 de mon PFE chez AXI Technologies.
